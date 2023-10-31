@@ -1,5 +1,3 @@
-FROM ubuntu:latest
-
 # Update and upgrade the system
 RUN apt-get update -y && apt-get upgrade -y
 
